@@ -2,7 +2,7 @@
 Data analysis of a general store sales--<br>
 1.This is a project about a data analysis of a general store annual sales,which helps the owner to take good decision to grow his business.<br>
 2.In this project i have used microsoft excell like different graphs,sort and filter,charts,formulas etc  to analysis the data. <br>
-3.Insights of the Stor Annual Report <br>
+3.Insights of the Store Annual Report <br>
 -Women are more likely to buy compared to men(~65%).<br>
 -Maharashtra,Karnataka and Uttar Pradesh are the top 3.<br>
 -Adults age group (30-49yrs) is max contributing(~50%).<br>
